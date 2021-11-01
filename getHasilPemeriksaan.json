@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "message": "sucess",
+    "data": [
+      {
+        "nomorBarang": "nomorBarang",
+        "jenisAju": "jenisAju",
+        "namaPemberitahu": "namaPemberitahu",
+        "tanggalHouse":"tanggalHouse",
+        "urStatus": "urStatus"
+      },
+      {
+        "nomorBarang": "nomorBarang",
+        "jenisAju": "jenisAju",
+        "namaPemberitahu": "namaPemberitahu",
+        "tanggalHouse":"tanggalHouse",
+        "urStatus": "urStatus"
+      }
+    ],
+    "total": 2
+  }
