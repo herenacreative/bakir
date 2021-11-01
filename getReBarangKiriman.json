@@ -1,0 +1,35 @@
+{
+    "status": true,
+    "message": "sucess",
+    "data": [
+      {
+        "nomorPjt": "nomorPjt",
+        "nomorBarang": "nomorBarang",
+        "namaPenerima": "namaPenerima",
+        "alamatPenerima":"alamatPenerima",
+        "namaPengirim": "namaPengirim",
+        "alamatPengirim": "alamatPengirim",
+        "fobHeader": "fobHeader",
+        "cifHeader": "cifHeader",
+        "brutoHeader":"brutoHeader",
+        "hsCode": "hsCode",
+        "uraianBarang": "uraianBarang",
+        "kodeNegaraAsal": "kodeNegaraAsal"
+      },
+      {
+        "nomorPjt": "nomorPjt",
+        "nomorBarang": "nomorBarang",
+        "namaPenerima": "namaPenerima",
+        "alamatPenerima":"alamatPenerima",
+        "namaPengirim": "namaPengirim",
+        "alamatPengirim": "alamatPengirim",
+        "fobHeader": "fobHeader",
+        "cifHeader": "cifHeader",
+        "brutoHeader":"brutoHeader",
+        "hsCode": "hsCode",
+        "uraianBarang": "uraianBarang",
+        "kodeNegaraAsal": "kodeNegaraAsal"
+      },
+    ],
+    "total": 2
+  }
