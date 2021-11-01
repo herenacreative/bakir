@@ -3,7 +3,7 @@
     "message": "sucess",
     "data": [
       {
-        "nomorPjt": "nomorPjt",
+        "namaPjt": "namaPjt",
         "nomorBarang": "nomorBarang",
         "namaPenerima": "namaPenerima",
         "alamatPenerima":"alamatPenerima",
@@ -17,7 +17,7 @@
         "kodeNegaraAsal": "kodeNegaraAsal"
       },
       {
-        "nomorPjt": "nomorPjt",
+        "namaPjt": "namaPjt",
         "nomorBarang": "nomorBarang",
         "namaPenerima": "namaPenerima",
         "alamatPenerima":"alamatPenerima",
