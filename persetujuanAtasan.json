@@ -1,0 +1,23 @@
+{
+    "status": true,
+    "message": "sucess",
+    "data": [
+      {
+        "tanggalAwal": "tanggalAwal",
+        "tanggalAkhir": "tanggalAkhir",
+        "detail": "detail",
+        "nipRekam":"nipRekam",
+        "wkRekam": "wkRekam",
+        "aktif": "aktif"
+      },
+      {
+        "tanggalAwal": "tanggalAwal",
+        "tanggalAkhir": "tanggalAkhir",
+        "detail": "detail",
+        "nipRekam":"nipRekam",
+        "wkRekam": "wkRekam",
+        "aktif": "aktif"
+      }
+    ],
+    "total": 2
+  }
