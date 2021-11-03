@@ -3,19 +3,19 @@
     "message": "sucess",
     "data": [
       {
-        "tanggalAwal": "tanggalAwal",
-        "tanggalAkhir": "tanggalAkhir",
-        "detil": "detil",
-        "nipRekam":"nipRekam",
-        "wkRekam": "wkRekam",
+        "tanggalAwal": "2021-11-04",
+        "tanggalAkhir": "2021-11-04",
+        "detil": "detil data",
+        "nipRekam":"123121321312132",
+        "wkRekam": "02:00:00",
         "aktif": "aktif"
       },
       {
-        "tanggalAwal": "tanggalAwal",
-        "tanggalAkhir": "tanggalAkhir",
-        "detail": "detil",
-        "nipRekam":"nipRekam",
-        "wkRekam": "wkRekam",
+        "tanggalAwal": "2021-11-03",
+        "tanggalAkhir": "2021-11-03",
+        "detil": "detil dataaa",
+        "nipRekam":"123121321312132",
+        "wkRekam": "02:00:00"",
         "aktif": "aktif"
       }
     ],
